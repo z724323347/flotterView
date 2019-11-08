@@ -1,4 +1,4 @@
-package com.example.flotter;
+package com.mrz.flotter;
 
 import io.flutter.plugin.common.PluginRegistry;
 

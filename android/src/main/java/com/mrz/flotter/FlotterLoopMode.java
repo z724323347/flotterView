@@ -1,4 +1,4 @@
-package com.example.flotter;
+package com.mrz.flotter;
 
 public class FlotterLoopMode {
     static final int playOnce = 0;

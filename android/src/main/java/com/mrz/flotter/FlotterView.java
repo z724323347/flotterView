@@ -1,4 +1,4 @@
-package com.example.flotter;
+package com.mrz.flotter;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

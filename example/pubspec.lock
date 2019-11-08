@@ -36,13 +36,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "0.1.2"
-  flotter:
-    dependency: "direct dev"
+  flotter_view:
+    dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "0.2.1"
+    version: "0.0.1"
   flutter:
     dependency: "direct main"
     description: flutter

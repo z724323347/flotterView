@@ -1,5 +1,5 @@
+import 'package:flotter_view/flotter.dart';
 import 'package:flutter/material.dart';
-import 'package:flotter/flotter.dart';
 
 void main() => runApp(MyApp());
 
