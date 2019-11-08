@@ -118,6 +118,7 @@ controller.stop()
 ```
 
 ## About
+IOS Fork [aroblast](https://github.com/aroblast/flotter) , Thanks.
 
 This project is a starting point for a Flutter
 [plug-in package](https://flutter.dev/developing-packages/),
