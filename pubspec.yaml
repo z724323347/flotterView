@@ -1,0 +1,21 @@
+name: flotter_view
+description: FlotterView is a plugin allowing you to use Lottie AnimationViews inside of Flutter, natively, using PlatformViews. Support IOS and Andoind
+version: 0.0.1
+author: Summer <zlovell520@gmail.com>
+homepage: https://github.com/z724323347/flotterView
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: com.mrz.flotter
+    pluginClass: FlotterPlugin

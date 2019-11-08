@@ -1,0 +1,29 @@
+PODS:
+  - flotter (0.2.1):
+    - Flutter
+    - lottie-ios
+  - Flutter (1.0.0)
+  - lottie-ios (3.1.2)
+
+DEPENDENCIES:
+  - flotter (from `.symlinks/plugins/flotter/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - lottie-ios
+
+EXTERNAL SOURCES:
+  flotter:
+    :path: ".symlinks/plugins/flotter/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  flotter: b348bc4b02f4f66459591e2eb375f81d13d78afa
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  lottie-ios: 49cd85b1f24f61a7708ad7ec76a523ab2d0e3100
+
+PODFILE CHECKSUM: d6dc542d74fe43280e46745d843ee5c531f97f19
+
+COCOAPODS: 1.7.2
