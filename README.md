@@ -1,6 +1,6 @@
 # flotter
 
-Use Lottie animations on iOS.
+Use Lottie animations on iOS and Android.
 
 ### *Important note*
 
